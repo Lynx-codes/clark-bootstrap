@@ -1,11 +1,28 @@
-A sleek, modern, and fully responsive portfolio website built using HTML, CSS, and Bootstrap. Designed for creative professionals, this site features:
+# Clark - Personal Portfolio Website
 
-✅ Smooth scrolling navigation
-✅ Engaging hero sections with carousel effects
-✅ Interactive project showcases
-✅ A dynamic blog section
-✅ Fully responsive design with optimized performance
+## Overview
+Clark is a personal portfolio website template designed for freelancers, web designers, and developers. It features a modern and responsive design built with HTML, CSS, Bootstrap, and JavaScript.
 
-This project reflects my passion for UI/UX design, front-end development, and digital creativity. Let’s connect and discuss how I can bring your ideas to life!
+## Features
+- Fully responsive and mobile-friendly design
+- Bootstrap-powered layout
+- Smooth scrolling navigation
+- Interactive hero section with a carousel
+- About, Resume, Services, Skills, Projects, Blog, and Contact sections
+- Animated counters and fade-in effects
+- Contact form integration
+- Sticky navigation on scroll
 
-#WebDesign #PortfolioWebsite #FrontendDevelopment #Bootstrap #HTML5 #CSS3 #WebDevelopment #ResponsiveDesign #UIUX #CreativeDesign #FreelanceWebDesigner
+## Usage
+- Customize the content by editing `index.html`.
+- Modify styles in `assets/css/style.css` and `assets/css/media.css`.
+- Adjust scripts in `assets/js/script.js`.
+
+## Technologies Used
+- HTML5
+- CSS3 (Bootstrap 5 & Custom Styling)
+- JavaScript
+- jQuery (for animations and interactions)
+
+## Contributing
+If you'd like to contribute to this project, feel free to fork the repository and submit a pull request with your changes.
