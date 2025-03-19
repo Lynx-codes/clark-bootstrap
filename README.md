@@ -13,6 +13,20 @@ Clark is a personal portfolio website template designed for freelancers, web des
 - Contact form integration
 - Sticky navigation on scroll
 
+## Folder Structure
+```
+clark-portfolio/
+│── assets/
+│   ├── css/
+│   │   ├── style.css
+│   │   ├── media.css
+│   ├── js/
+│   │   ├── script.js
+│   ├── img/
+│── index.html
+│── README.md
+```
+
 ## Usage
 - Customize the content by editing `index.html`.
 - Modify styles in `assets/css/style.css` and `assets/css/media.css`.
@@ -26,3 +40,4 @@ Clark is a personal portfolio website template designed for freelancers, web des
 
 ## Contributing
 If you'd like to contribute to this project, feel free to fork the repository and submit a pull request with your changes.
+
